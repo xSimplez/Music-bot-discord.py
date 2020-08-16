@@ -41,8 +41,6 @@ Linux bots are tested using VM Virutal Box and Ubuntu/BunsenLabs
 Self-bots are against Discord's terms of service, using this on servers that aren't your own will get your account deleted.
 You could even get banned while using it on your own server. I'm not responsible if you do.
 
-This script is made only for te# Discord spam bots with multiple account support and more. *Made strictly for testing anti-spam for server owners*
-
-sting your server's anti-spam, using bots like [sweetie](https://github.com/blackhole12/sweetiebot),  etc.
+This script is made only for testing your server's anti-spam, using bots like [sweetie](https://github.com/blackhole12/sweetiebot),  etc.
 
 ![its a face](http://i.imgur.com/bTMYozm.png)
